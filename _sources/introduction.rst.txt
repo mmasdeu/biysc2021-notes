@@ -16,7 +16,10 @@ In type theory, the basic notions are "terms" and "types" --- compare to "elemen
 Every term has a type, and types are just a special kind of term.
 Terms can be interpreted as mathematical objects, functions, propositions, or proofs.
 The only two things Lean can do is *create* terms and *check* their types.
-By iterating these two operations, we can teach Lean to verify complex mathematical proofs.
+By iterating these two operations, we can teach Lean to verify complex mathematical proofs. For instance,
+below you can see the statement of Fermat's Last Theorem coded in Lean, which states that the equation
+:math:`x^n+y^n=z^n` has no nontrivial solutions in the integers when :math:`n \in \mathbb{N}` is greater than 2.
+
 
 .. code-block:: lean
 
