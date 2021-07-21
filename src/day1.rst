@@ -3,7 +3,6 @@
 Logic in Lean - Part 1
 ************************
 
-A test: $$\sqrt{2}$$, $$\\sqrt{2}$$ :math:`\frac{ \sum_{t=0}^{N}f(t,k) }{N}`.
 
 Lean is built on top of a logic system called *type theory*, which is an alternative to *set theory*.
 In type theory, instead of elements we have *terms* and every term has a *type*.
