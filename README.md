@@ -1,6 +1,6 @@
 # BIYSC 2021 - Notes
 
-Source code for https://mmasdeu.github.io/courses/biysc2021/index.html
+Source code for https://mmasdeu.github.io/biysc2021-notes
 
 Download this project using `leanproject get mmasdeu/biysc2021-notes`
 
